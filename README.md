@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Welcome to My Data Science Playground 🚀
+# Welcome to My Playground 🚀
 
 ![Data Science](https://img.shields.io/badge/Data%20Science-Enthusiast-brightgreen)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Geek-blue)
