@@ -45,7 +45,7 @@ I enjoy diving into complex datasets, building predictive models, and crafting d
 I'm always open to collaborations, discussions, and new projects. Feel free to reach out if you have an exciting opportunity, a data challenge, or want to connect. You can contact me on [LinkedIn](https://www.linkedin.com/in/thierry-leutou) to explore my professional journey.
 
 ## 📬 Contact Me
-You can reach me via email at [thierry_leutou@yahoo.com](mailto:thierry_leutou@yahoo.com). I look forward to connecting with fellow data enthusiasts, potential employers, and anyone passionate about data science.
+You can reach me via email at [thierry.leutou@yahoo.com](mailto:thierry.leutou@yahoo.com). I look forward to connecting with fellow data enthusiasts, potential employers, and anyone passionate about data science.
 
 Let's unlock the power of data together! 📊📈
 
