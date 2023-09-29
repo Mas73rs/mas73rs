@@ -25,7 +25,7 @@ Hi there! I'm Thierry, a passionate data scientist with a knack for turning data
 - **Languages:** Python, R
 - **Machine Learning:** Scikit-Learn
 - **Data Analysis:** Pandas, NumPy
-- **Data Visualization:** Matplotlib, Seaborn, Tableau
+- **Data Visualization:** Matplotlib, Seaborn, [Tableau](https://public.tableau.com/app/profile/thierry.l./vizzes)
 - **Database:** SQL
 - **Version Control:** Git, GitHub
 - **Web Scraping:** BeautifulSoup
